@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.mongodb.BasicDBObject;
 
 @RestController
-public class GreetingController {
+public class ApiController {
 
 	@Autowired
 	private MongoTemplate mongoTemplate;
@@ -28,10 +28,9 @@ public class GreetingController {
 
 		System.out.println(jsonString);
 
-
 		Document doc = Document.parse(jsonString);
 		
-		mongoTemplate.insert(doc, "foo");
+		mongoTemplate.insert(doc, "training-session");
 
 		return "ok";
 	}
