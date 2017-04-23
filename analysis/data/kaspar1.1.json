@@ -1,0 +1,3117 @@
+{
+    "_id": {
+        "$oid": "58e776071534f300043a416a"
+    },
+    "_class": "org.bson.Document",
+    "brakingPoints": [
+        {
+            "braking": 3,
+            "timeStamp": 1491563980944
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563980995
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563981131
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563981265
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563981333
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563981401
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563981535
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563981605
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563981742
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563981810
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563981949
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563982013
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563982147
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563982215
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563982418
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563982486
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563982518
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563982634
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563982706
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563982824
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563982911
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563983028
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563983144
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563983232
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563983341
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563983424
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563983534
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563983629
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563983737
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563983840
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563983929
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563984036
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563984150
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563984325
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563984344
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563984541
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563984550
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563984639
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563984914
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563984931
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563984948
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563985050
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563985162
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563985250
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563985359
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563985469
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563985559
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563985667
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563985779
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563985867
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563986031
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563986080
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563986239
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563986274
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563986375
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563986485
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563986592
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563986673
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563986782
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563986957
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563987057
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563987097
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563987217
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563987298
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563987382
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563987518
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563987602
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563987685
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563987832
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563987928
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563988000
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563988093
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563988202
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563988293
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563988435
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563988533
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563988632
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563988715
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563988814
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563988906
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563988996
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563989129
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563989253
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563989351
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563989411
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563989520
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563989604
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563989731
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563989842
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563989927
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563990027
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563990160
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563990218
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563990331
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563990464
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563990528
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563990646
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563990731
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563990859
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563990947
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563991047
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563991138
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563991254
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563991337
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563991444
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563991585
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563991650
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563991746
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563991859
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563991949
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563992041
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563992167
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563992263
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563992353
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563992463
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563992572
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563992674
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563992771
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563992886
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563992972
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563993062
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563993171
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563993281
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563993379
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563993462
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563993606
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563993699
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563993787
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563993872
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563994001
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563994090
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563994181
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563994292
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563994390
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563994476
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563994591
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563994692
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563994802
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563994893
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563994988
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563995097
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563995205
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563995305
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563995422
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563995531
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563995611
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563995702
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563995813
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563995895
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563996027
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563996112
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563996232
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491563996316
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491563996425
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491563996509
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563996615
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563996723
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563996823
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563996936
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563997018
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563997128
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563997247
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563997429
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563997473
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563997533
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491563997641
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491563997753
+        },
+        {
+            "braking": 5,
+            "timeStamp": 1491563997848
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491563997938
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491563998048
+        },
+        {
+            "braking": 6,
+            "timeStamp": 1491563998138
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491563998247
+        },
+        {
+            "braking": 6,
+            "timeStamp": 1491563998332
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491563998450
+        },
+        {
+            "braking": 8,
+            "timeStamp": 1491563998550
+        },
+        {
+            "braking": 8,
+            "timeStamp": 1491563998668
+        },
+        {
+            "braking": 8,
+            "timeStamp": 1491563998751
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491563998859
+        },
+        {
+            "braking": 8,
+            "timeStamp": 1491563998946
+        },
+        {
+            "braking": 8,
+            "timeStamp": 1491563999057
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491563999176
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491563999260
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491563999370
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491563999457
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491563999569
+        },
+        {
+            "braking": 6,
+            "timeStamp": 1491563999652
+        },
+        {
+            "braking": 5,
+            "timeStamp": 1491563999796
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491563999884
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491563999966
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491564000069
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491564000155
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491564000263
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491564000366
+        },
+        {
+            "braking": 5,
+            "timeStamp": 1491564000481
+        },
+        {
+            "braking": 5,
+            "timeStamp": 1491564000592
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491564000676
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491564000816
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564000896
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491564000975
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564001086
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564001202
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564001286
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564001398
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564001512
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564001625
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564001733
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564001790
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564001898
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564002007
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564002091
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564002216
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564002321
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564002431
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564002514
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564002603
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564002721
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564002802
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564002967
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564003018
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564003107
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564003216
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564003301
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564003412
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564003523
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564003640
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564003738
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564003821
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564003928
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564004015
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564004122
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564004239
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564004347
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564004439
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564004524
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564004632
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564004744
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564004832
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564004936
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564005048
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564005131
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564005239
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564005352
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564005444
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564005546
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564005664
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564005748
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564005857
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564005940
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564006060
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564006148
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564006260
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564006374
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564006456
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564006570
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564006664
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564006795
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564006878
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564006967
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564007077
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564007161
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564007280
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564007373
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564007487
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564007573
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564007685
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564007767
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564007883
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564007980
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564008078
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564008187
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491564008292
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564008380
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491564008494
+        },
+        {
+            "braking": 5,
+            "timeStamp": 1491564008609
+        },
+        {
+            "braking": 6,
+            "timeStamp": 1491564008695
+        },
+        {
+            "braking": 8,
+            "timeStamp": 1491564008817
+        },
+        {
+            "braking": 8,
+            "timeStamp": 1491564008892
+        },
+        {
+            "braking": 8,
+            "timeStamp": 1491564008985
+        },
+        {
+            "braking": 8,
+            "timeStamp": 1491564009088
+        },
+        {
+            "braking": 8,
+            "timeStamp": 1491564009209
+        },
+        {
+            "braking": 8,
+            "timeStamp": 1491564009296
+        },
+        {
+            "braking": 8,
+            "timeStamp": 1491564009406
+        },
+        {
+            "braking": 6,
+            "timeStamp": 1491564009515
+        },
+        {
+            "braking": 5,
+            "timeStamp": 1491564009619
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491564009700
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564009813
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564009918
+        },
+        {
+            "braking": 8,
+            "timeStamp": 1491564010012
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564010122
+        },
+        {
+            "braking": 6,
+            "timeStamp": 1491564010205
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564010314
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564010414
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564010533
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564010664
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564010730
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564010828
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564010928
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564011045
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564011122
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564011241
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564011347
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564011426
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564011537
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564011623
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564011776
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564011833
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564011946
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564012028
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564012166
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564012252
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564012375
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564012525
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564012558
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564012655
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564012738
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564012870
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564012957
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564013220
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564013230
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564013263
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564013350
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564013474
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564013576
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564013690
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564013852
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564013856
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564013961
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564014069
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564014185
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564014270
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564014386
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564014478
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564014591
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564014675
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564014786
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564014877
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564014992
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564015081
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564015196
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564015280
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564015396
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564015509
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564015592
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564015703
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564015809
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564015890
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564016002
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564016093
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564016203
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564016306
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564016418
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564016502
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564016605
+        },
+        {
+            "braking": 5,
+            "timeStamp": 1491564016716
+        },
+        {
+            "braking": 5,
+            "timeStamp": 1491564016808
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491564016918
+        },
+        {
+            "braking": 6,
+            "timeStamp": 1491564017037
+        },
+        {
+            "braking": 6,
+            "timeStamp": 1491564017121
+        },
+        {
+            "braking": 6,
+            "timeStamp": 1491564017202
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564017319
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564017428
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564017543
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564017625
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564017733
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564017815
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564017929
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564018048
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564018136
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564018229
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564018340
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564018435
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564018542
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564018628
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564018737
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564018851
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564018942
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564019024
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564019132
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564019247
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564019362
+        },
+        {
+            "braking": 7,
+            "timeStamp": 1491564019450
+        },
+        {
+            "braking": 6,
+            "timeStamp": 1491564019565
+        },
+        {
+            "braking": 6,
+            "timeStamp": 1491564019647
+        },
+        {
+            "braking": 6,
+            "timeStamp": 1491564019755
+        },
+        {
+            "braking": 5,
+            "timeStamp": 1491564019848
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491564019955
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491564020064
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491564020152
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491564020260
+        },
+        {
+            "braking": 4,
+            "timeStamp": 1491564020348
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564020465
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564020557
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564020666
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564020778
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564020873
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564020956
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564021071
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564021166
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564021275
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564021384
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564021472
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564021581
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564021688
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564021776
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564021883
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564021994
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564022083
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564022181
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564022288
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564022397
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564022501
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564022613
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564022696
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564022808
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564022905
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564022993
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564023101
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564023196
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564023304
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564023435
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564023493
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564023628
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564023713
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564023842
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564023931
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564024014
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564024130
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564024218
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564024326
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564024436
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564024523
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564024638
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564024803
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564024840
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564024923
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564025021
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564025131
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564025234
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564025342
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564025426
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564025537
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564025647
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564025733
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564025838
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564025946
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564026046
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564026141
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564026248
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564026363
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564026446
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564026553
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564026663
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564026748
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564026857
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564026956
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564027066
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564027172
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564027242
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564027359
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564027466
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564027585
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564027671
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564027755
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564027868
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564027973
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564028065
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564028174
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564028283
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564028384
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564028463
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564028584
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564028700
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564028784
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564028893
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564028990
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564029073
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564029184
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564029314
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564029398
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564029487
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564029596
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564029688
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564029796
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564029916
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564030002
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564030096
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564030204
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564030310
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564030400
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564030543
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564030611
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564030746
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564030814
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564030948
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564031015
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564031151
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564031285
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564031353
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564031421
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564031555
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564031622
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564031823
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564031891
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564032028
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564032095
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564032161
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564032229
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564032364
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564032432
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564032567
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564032635
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564032770
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564032836
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564032971
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564033039
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564033174
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564033242
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564033377
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564033443
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564033578
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564033647
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564033782
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564033849
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564034051
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564034060
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564034194
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564034256
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564034389
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564034457
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564034599
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564034658
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564034793
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564034862
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564034997
+        },
+        {
+            "braking": 3,
+            "timeStamp": 1491564035063
+        }
+    ],
+    "duration": 54189,
+    "endTimeStamp": 1491564035081,
+    "isActiveInView": false,
+    "locations": [
+        {
+            "mAccuracy": 3.9,
+            "mAltitude": 86,
+            "mBearing": 0,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4871268505906,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": false,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7822425,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5141938,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 0,
+            "mTime": 1491563967000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 87,
+            "mBearing": 195,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4895284814543,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7822308,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5141819,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 3,
+            "mTime": 1491563991000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 88,
+            "mBearing": 210,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4896267507615,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7821781,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5141205,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 4.75,
+            "mTime": 1491563992000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 86,
+            "mBearing": 196,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4897265069385,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7820891,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5140792,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 7,
+            "mTime": 1491563993000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 87,
+            "mBearing": 196,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4898265092353,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7820206,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5140372,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 8.25,
+            "mTime": 1491563994000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 82,
+            "mBearing": 199,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4899264925530,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7819293,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5139683,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 8,
+            "mTime": 1491563995000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 81,
+            "mBearing": 196,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4900268023811,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7818485,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5139275,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 8.75,
+            "mTime": 1491563996000
+        },
+        {
+            "mAccuracy": 5,
+            "mAltitude": 81,
+            "mBearing": 197,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4901272435894,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7817712,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.51388,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 9.25,
+            "mTime": 1491563997000
+        },
+        {
+            "mAccuracy": 5,
+            "mAltitude": 82,
+            "mBearing": 195,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4902279051154,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7816689,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5138399,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 10,
+            "mTime": 1491563998000
+        },
+        {
+            "mAccuracy": 5,
+            "mAltitude": 85,
+            "mBearing": 196,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4903270697664,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7815893,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5138106,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 9.25,
+            "mTime": 1491563999000
+        },
+        {
+            "mAccuracy": 5,
+            "mAltitude": 83,
+            "mBearing": 192,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4904275621205,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7815038,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5137874,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 9,
+            "mTime": 1491564000000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 86,
+            "mBearing": 198,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4905265547820,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7814424,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5137507,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 8.5,
+            "mTime": 1491564001000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 84,
+            "mBearing": 197,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4906255925684,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7813409,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5137092,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 8.25,
+            "mTime": 1491564002000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 84,
+            "mBearing": 185,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4907266876099,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.781292,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5137067,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 6.75,
+            "mTime": 1491564003000
+        },
+        {
+            "mAccuracy": 5,
+            "mAltitude": 84,
+            "mBearing": 190,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4908286917142,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7812376,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5136969,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 5.5,
+            "mTime": 1491564004000
+        },
+        {
+            "mAccuracy": 5,
+            "mAltitude": 84,
+            "mBearing": 228,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4909265893651,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.781219,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5136144,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 4.75,
+            "mTime": 1491564005000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 85,
+            "mBearing": 257,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4910265516620,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7812111,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5135039,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 6.25,
+            "mTime": 1491564006000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 84,
+            "mBearing": 264,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4911266114224,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7812067,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5133507,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 7.5,
+            "mTime": 1491564007000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 84,
+            "mBearing": 270,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4912268451359,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7812073,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5132116,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 8,
+            "mTime": 1491564008000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 83,
+            "mBearing": 270,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4913263530993,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7812145,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5130823,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 8.75,
+            "mTime": 1491564009000
+        },
+        {
+            "mAccuracy": 5,
+            "mAltitude": 83,
+            "mBearing": 266,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4914256576462,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7811986,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5129274,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 9,
+            "mTime": 1491564010000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 83,
+            "mBearing": 269,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4915255297296,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7811919,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5127735,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 8.5,
+            "mTime": 1491564011000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 83,
+            "mBearing": 268,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4916268735211,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7811914,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5126341,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 8.5,
+            "mTime": 1491564012000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 84,
+            "mBearing": 275,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4917271329013,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7812042,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5125113,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 7.75,
+            "mTime": 1491564013000
+        },
+        {
+            "mAccuracy": 5,
+            "mAltitude": 84,
+            "mBearing": 279,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4918269289117,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7812117,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5123917,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 6.75,
+            "mTime": 1491564014000
+        },
+        {
+            "mAccuracy": 7,
+            "mAltitude": 84,
+            "mBearing": 285,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4919255828544,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.781233,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5123032,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 6,
+            "mTime": 1491564015000
+        },
+        {
+            "mAccuracy": 8,
+            "mAltitude": 84,
+            "mBearing": 334,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4920266045417,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7813641,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5122795,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 7.75,
+            "mTime": 1491564016000
+        },
+        {
+            "mAccuracy": 8,
+            "mAltitude": 83,
+            "mBearing": 1,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4921260214896,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7814058,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5123327,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 6.75,
+            "mTime": 1491564017000
+        },
+        {
+            "mAccuracy": 6,
+            "mAltitude": 83,
+            "mBearing": 20,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4922264250626,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.781461,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5124493,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 8.25,
+            "mTime": 1491564018000
+        },
+        {
+            "mAccuracy": 5,
+            "mAltitude": 82,
+            "mBearing": 18,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4923268425575,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7815472,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.512492,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 8.75,
+            "mTime": 1491564019000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 81,
+            "mBearing": 20,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4924267291562,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.781611,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.512529,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 8.25,
+            "mTime": 1491564020000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 80,
+            "mBearing": 20,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4925276355209,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7816615,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5125789,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 8,
+            "mTime": 1491564021000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 81,
+            "mBearing": 18,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4926265881874,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7816979,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5126128,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 5.5,
+            "mTime": 1491564022000
+        },
+        {
+            "mAccuracy": 5,
+            "mAltitude": 81,
+            "mBearing": 24,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4927265554218,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7817223,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5126435,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 3.25,
+            "mTime": 1491564023000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 81,
+            "mBearing": 32,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4928265655103,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": true,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7817139,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5126344,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 0.75,
+            "mTime": 1491564024000
+        },
+        {
+            "mAccuracy": 5,
+            "mAltitude": 83,
+            "mBearing": 0,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4932297772445,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": false,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7817065,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5126445,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 0,
+            "mTime": 1491564028000
+        },
+        {
+            "mAccuracy": 4,
+            "mAltitude": 84,
+            "mBearing": 0,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 4935270695725,
+            "mHasAccuracy": true,
+            "mHasAltitude": true,
+            "mHasBearing": false,
+            "mHasSpeed": true,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.7816957,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5126349,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 0,
+            "mTime": 1491564031000
+        }
+    ],
+    "sessionName": "some_session",
+    "startTimestamp": 1491563980892
+}

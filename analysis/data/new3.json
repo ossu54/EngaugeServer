@@ -1,0 +1,2749 @@
+{
+    "_id": {
+        "$oid": "58fd24df041baa0004d23395"
+    },
+    "_class": "org.bson.Document",
+    "brakingPoints": [
+        {
+            "braking": 0,
+            "timeStamp": 1492984984795
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984984910
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984984999
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984985109
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984985247
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984985324
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984985415
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984985530
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984985595
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984985706
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984985815
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984985924
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984986009
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984986123
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984986207
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984986325
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984986415
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984986534
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984986625
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984986734
+        },
+        {
+            "braking": 43,
+            "timeStamp": 1492984986820
+        },
+        {
+            "braking": 552,
+            "timeStamp": 1492984986935
+        },
+        {
+            "braking": 633,
+            "timeStamp": 1492984987053
+        },
+        {
+            "braking": 123,
+            "timeStamp": 1492984987140
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984987251
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984987341
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984987446
+        },
+        {
+            "braking": 47,
+            "timeStamp": 1492984987538
+        },
+        {
+            "braking": 86,
+            "timeStamp": 1492984987653
+        },
+        {
+            "braking": 398,
+            "timeStamp": 1492984987752
+        },
+        {
+            "braking": 629,
+            "timeStamp": 1492984987842
+        },
+        {
+            "braking": 406,
+            "timeStamp": 1492984987952
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984988034
+        },
+        {
+            "braking": 498,
+            "timeStamp": 1492984988149
+        },
+        {
+            "braking": 543,
+            "timeStamp": 1492984988246
+        },
+        {
+            "braking": 34,
+            "timeStamp": 1492984988395
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984988532
+        },
+        {
+            "braking": 532,
+            "timeStamp": 1492984988562
+        },
+        {
+            "braking": 128,
+            "timeStamp": 1492984988678
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984988825
+        },
+        {
+            "braking": 543,
+            "timeStamp": 1492984988883
+        },
+        {
+            "braking": 534,
+            "timeStamp": 1492984989013
+        },
+        {
+            "braking": 35,
+            "timeStamp": 1492984989053
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984989177
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984989274
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984989380
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984989470
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984989579
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984989670
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984989786
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984989869
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984989983
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984990075
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984990196
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984990294
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984990387
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984990481
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984990655
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984990719
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984990858
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984991035
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984991689
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984991952
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984992617
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984992713
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984992720
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984992721
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984992721
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984992721
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984992721
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984992721
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984992781
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984992797
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984993094
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984993105
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984993106
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984993106
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984993106
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984993106
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984993123
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984993170
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984993444
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984993539
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984993605
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984993687
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984993970
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984994108
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984994175
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984994177
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984994244
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984994583
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984994719
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984994719
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984994719
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984994720
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984994854
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984994923
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984994989
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984994989
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984995060
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984995278
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984995358
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984995435
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984995641
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984995709
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984995780
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984995850
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984995917
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984996058
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984996062
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984996069
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984996091
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984996162
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984996328
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984996396
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984996531
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984996828
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984996897
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984996965
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984997108
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984997168
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984997236
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984997304
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984997371
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984997442
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984997512
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984997578
+        },
+        {
+            "braking": 323,
+            "timeStamp": 1492984997913
+        },
+        {
+            "braking": 632,
+            "timeStamp": 1492984997986
+        },
+        {
+            "braking": 528,
+            "timeStamp": 1492984998126
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984998127
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984998330
+        },
+        {
+            "braking": 538,
+            "timeStamp": 1492984998398
+        },
+        {
+            "braking": 767,
+            "timeStamp": 1492984998466
+        },
+        {
+            "braking": 799,
+            "timeStamp": 1492984998675
+        },
+        {
+            "braking": 708,
+            "timeStamp": 1492984998938
+        },
+        {
+            "braking": 27,
+            "timeStamp": 1492984998976
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984998991
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984999001
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984999021
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984999021
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984999118
+        },
+        {
+            "braking": 5,
+            "timeStamp": 1492984999206
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984999326
+        },
+        {
+            "braking": 45,
+            "timeStamp": 1492984999415
+        },
+        {
+            "braking": 599,
+            "timeStamp": 1492984999517
+        },
+        {
+            "braking": 593,
+            "timeStamp": 1492984999621
+        },
+        {
+            "braking": 19,
+            "timeStamp": 1492984999714
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984999808
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492984999968
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985000031
+        },
+        {
+            "braking": 50,
+            "timeStamp": 1492985000119
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985000210
+        },
+        {
+            "braking": 162,
+            "timeStamp": 1492985000340
+        },
+        {
+            "braking": 73,
+            "timeStamp": 1492985000446
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985000558
+        },
+        {
+            "braking": 246,
+            "timeStamp": 1492985000631
+        },
+        {
+            "braking": 621,
+            "timeStamp": 1492985000734
+        },
+        {
+            "braking": 738,
+            "timeStamp": 1492985000829
+        },
+        {
+            "braking": 784,
+            "timeStamp": 1492985000957
+        },
+        {
+            "braking": 784,
+            "timeStamp": 1492985001033
+        },
+        {
+            "braking": 791,
+            "timeStamp": 1492985001165
+        },
+        {
+            "braking": 811,
+            "timeStamp": 1492985001226
+        },
+        {
+            "braking": 822,
+            "timeStamp": 1492985001342
+        },
+        {
+            "braking": 836,
+            "timeStamp": 1492985001436
+        },
+        {
+            "braking": 847,
+            "timeStamp": 1492985001537
+        },
+        {
+            "braking": 852,
+            "timeStamp": 1492985001654
+        },
+        {
+            "braking": 852,
+            "timeStamp": 1492985001800
+        },
+        {
+            "braking": 854,
+            "timeStamp": 1492985001848
+        },
+        {
+            "braking": 856,
+            "timeStamp": 1492985001966
+        },
+        {
+            "braking": 859,
+            "timeStamp": 1492985002052
+        },
+        {
+            "braking": 863,
+            "timeStamp": 1492985002213
+        },
+        {
+            "braking": 866,
+            "timeStamp": 1492985002247
+        },
+        {
+            "braking": 869,
+            "timeStamp": 1492985002359
+        },
+        {
+            "braking": 871,
+            "timeStamp": 1492985002490
+        },
+        {
+            "braking": 871,
+            "timeStamp": 1492985002573
+        },
+        {
+            "braking": 871,
+            "timeStamp": 1492985002656
+        },
+        {
+            "braking": 870,
+            "timeStamp": 1492985002799
+        },
+        {
+            "braking": 870,
+            "timeStamp": 1492985002914
+        },
+        {
+            "braking": 870,
+            "timeStamp": 1492985002979
+        },
+        {
+            "braking": 870,
+            "timeStamp": 1492985003066
+        },
+        {
+            "braking": 870,
+            "timeStamp": 1492985003165
+        },
+        {
+            "braking": 869,
+            "timeStamp": 1492985003274
+        },
+        {
+            "braking": 868,
+            "timeStamp": 1492985003389
+        },
+        {
+            "braking": 868,
+            "timeStamp": 1492985003524
+        },
+        {
+            "braking": 869,
+            "timeStamp": 1492985003584
+        },
+        {
+            "braking": 869,
+            "timeStamp": 1492985003697
+        },
+        {
+            "braking": 870,
+            "timeStamp": 1492985003781
+        },
+        {
+            "braking": 870,
+            "timeStamp": 1492985003891
+        },
+        {
+            "braking": 870,
+            "timeStamp": 1492985004039
+        },
+        {
+            "braking": 869,
+            "timeStamp": 1492985004102
+        },
+        {
+            "braking": 868,
+            "timeStamp": 1492985004206
+        },
+        {
+            "braking": 865,
+            "timeStamp": 1492985004291
+        },
+        {
+            "braking": 856,
+            "timeStamp": 1492985004413
+        },
+        {
+            "braking": 854,
+            "timeStamp": 1492985004498
+        },
+        {
+            "braking": 851,
+            "timeStamp": 1492985004611
+        },
+        {
+            "braking": 849,
+            "timeStamp": 1492985004707
+        },
+        {
+            "braking": 852,
+            "timeStamp": 1492985004822
+        },
+        {
+            "braking": 859,
+            "timeStamp": 1492985004911
+        },
+        {
+            "braking": 863,
+            "timeStamp": 1492985005000
+        },
+        {
+            "braking": 867,
+            "timeStamp": 1492985005110
+        },
+        {
+            "braking": 868,
+            "timeStamp": 1492985005267
+        },
+        {
+            "braking": 869,
+            "timeStamp": 1492985005306
+        },
+        {
+            "braking": 870,
+            "timeStamp": 1492985005416
+        },
+        {
+            "braking": 870,
+            "timeStamp": 1492985005529
+        },
+        {
+            "braking": 871,
+            "timeStamp": 1492985005614
+        },
+        {
+            "braking": 871,
+            "timeStamp": 1492985005729
+        },
+        {
+            "braking": 871,
+            "timeStamp": 1492985005849
+        },
+        {
+            "braking": 871,
+            "timeStamp": 1492985005924
+        },
+        {
+            "braking": 870,
+            "timeStamp": 1492985006034
+        },
+        {
+            "braking": 855,
+            "timeStamp": 1492985006128
+        },
+        {
+            "braking": 472,
+            "timeStamp": 1492985006240
+        },
+        {
+            "braking": 293,
+            "timeStamp": 1492985006326
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985006439
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985006530
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985006640
+        },
+        {
+            "braking": 236,
+            "timeStamp": 1492985006734
+        },
+        {
+            "braking": 721,
+            "timeStamp": 1492985006835
+        },
+        {
+            "braking": 833,
+            "timeStamp": 1492985006955
+        },
+        {
+            "braking": 854,
+            "timeStamp": 1492985007062
+        },
+        {
+            "braking": 858,
+            "timeStamp": 1492985007147
+        },
+        {
+            "braking": 862,
+            "timeStamp": 1492985007246
+        },
+        {
+            "braking": 864,
+            "timeStamp": 1492985007354
+        },
+        {
+            "braking": 865,
+            "timeStamp": 1492985007445
+        },
+        {
+            "braking": 863,
+            "timeStamp": 1492985007610
+        },
+        {
+            "braking": 862,
+            "timeStamp": 1492985007671
+        },
+        {
+            "braking": 859,
+            "timeStamp": 1492985007761
+        },
+        {
+            "braking": 859,
+            "timeStamp": 1492985007855
+        },
+        {
+            "braking": 861,
+            "timeStamp": 1492985007968
+        },
+        {
+            "braking": 853,
+            "timeStamp": 1492985008080
+        },
+        {
+            "braking": 851,
+            "timeStamp": 1492985008197
+        },
+        {
+            "braking": 846,
+            "timeStamp": 1492985008305
+        },
+        {
+            "braking": 847,
+            "timeStamp": 1492985008375
+        },
+        {
+            "braking": 847,
+            "timeStamp": 1492985008471
+        },
+        {
+            "braking": 847,
+            "timeStamp": 1492985008566
+        },
+        {
+            "braking": 844,
+            "timeStamp": 1492985008706
+        },
+        {
+            "braking": 835,
+            "timeStamp": 1492985008932
+        },
+        {
+            "braking": 822,
+            "timeStamp": 1492985008949
+        },
+        {
+            "braking": 816,
+            "timeStamp": 1492985009001
+        },
+        {
+            "braking": 821,
+            "timeStamp": 1492985009089
+        },
+        {
+            "braking": 822,
+            "timeStamp": 1492985009179
+        },
+        {
+            "braking": 819,
+            "timeStamp": 1492985009356
+        },
+        {
+            "braking": 813,
+            "timeStamp": 1492985009400
+        },
+        {
+            "braking": 806,
+            "timeStamp": 1492985009511
+        },
+        {
+            "braking": 799,
+            "timeStamp": 1492985009600
+        },
+        {
+            "braking": 797,
+            "timeStamp": 1492985009694
+        },
+        {
+            "braking": 794,
+            "timeStamp": 1492985009793
+        },
+        {
+            "braking": 803,
+            "timeStamp": 1492985009991
+        },
+        {
+            "braking": 821,
+            "timeStamp": 1492985010001
+        },
+        {
+            "braking": 826,
+            "timeStamp": 1492985010097
+        },
+        {
+            "braking": 819,
+            "timeStamp": 1492985010217
+        },
+        {
+            "braking": 813,
+            "timeStamp": 1492985010310
+        },
+        {
+            "braking": 813,
+            "timeStamp": 1492985010408
+        },
+        {
+            "braking": 814,
+            "timeStamp": 1492985010571
+        },
+        {
+            "braking": 815,
+            "timeStamp": 1492985010610
+        },
+        {
+            "braking": 818,
+            "timeStamp": 1492985010736
+        },
+        {
+            "braking": 823,
+            "timeStamp": 1492985011109
+        },
+        {
+            "braking": 821,
+            "timeStamp": 1492985011389
+        },
+        {
+            "braking": 824,
+            "timeStamp": 1492985011835
+        },
+        {
+            "braking": 826,
+            "timeStamp": 1492985012050
+        },
+        {
+            "braking": 831,
+            "timeStamp": 1492985012150
+        },
+        {
+            "braking": 839,
+            "timeStamp": 1492985012771
+        },
+        {
+            "braking": 840,
+            "timeStamp": 1492985012772
+        },
+        {
+            "braking": 837,
+            "timeStamp": 1492985012772
+        },
+        {
+            "braking": 838,
+            "timeStamp": 1492985012772
+        },
+        {
+            "braking": 838,
+            "timeStamp": 1492985012772
+        },
+        {
+            "braking": 838,
+            "timeStamp": 1492985012772
+        },
+        {
+            "braking": 838,
+            "timeStamp": 1492985012843
+        },
+        {
+            "braking": 839,
+            "timeStamp": 1492985012981
+        },
+        {
+            "braking": 839,
+            "timeStamp": 1492985013037
+        },
+        {
+            "braking": 838,
+            "timeStamp": 1492985013037
+        },
+        {
+            "braking": 836,
+            "timeStamp": 1492985013037
+        },
+        {
+            "braking": 838,
+            "timeStamp": 1492985013037
+        },
+        {
+            "braking": 837,
+            "timeStamp": 1492985013037
+        },
+        {
+            "braking": 837,
+            "timeStamp": 1492985013037
+        },
+        {
+            "braking": 835,
+            "timeStamp": 1492985013037
+        },
+        {
+            "braking": 795,
+            "timeStamp": 1492985013061
+        },
+        {
+            "braking": 418,
+            "timeStamp": 1492985013076
+        },
+        {
+            "braking": 62,
+            "timeStamp": 1492985013144
+        },
+        {
+            "braking": 52,
+            "timeStamp": 1492985013186
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985013256
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985013363
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985013489
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985013561
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985013680
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985013778
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985013875
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985013970
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985014095
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985014266
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985014276
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985014889
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985014941
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985014954
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985014962
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985014964
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985014979
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985014988
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985015080
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985015191
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985015294
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985015379
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985015490
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985015599
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985015683
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985015800
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985015889
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985015987
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985016100
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985016200
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985016309
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985016396
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985016512
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985016596
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985016712
+        },
+        {
+            "braking": 99,
+            "timeStamp": 1492985016803
+        },
+        {
+            "braking": 545,
+            "timeStamp": 1492985016957
+        },
+        {
+            "braking": 708,
+            "timeStamp": 1492985017260
+        },
+        {
+            "braking": 764,
+            "timeStamp": 1492985017308
+        },
+        {
+            "braking": 778,
+            "timeStamp": 1492985017326
+        },
+        {
+            "braking": 774,
+            "timeStamp": 1492985017463
+        },
+        {
+            "braking": 770,
+            "timeStamp": 1492985017489
+        },
+        {
+            "braking": 756,
+            "timeStamp": 1492985017839
+        },
+        {
+            "braking": 652,
+            "timeStamp": 1492985018017
+        },
+        {
+            "braking": 595,
+            "timeStamp": 1492985018076
+        },
+        {
+            "braking": 529,
+            "timeStamp": 1492985020545
+        },
+        {
+            "braking": 591,
+            "timeStamp": 1492985020602
+        },
+        {
+            "braking": 710,
+            "timeStamp": 1492985020738
+        },
+        {
+            "braking": 516,
+            "timeStamp": 1492985020746
+        },
+        {
+            "braking": 283,
+            "timeStamp": 1492985020788
+        },
+        {
+            "braking": 282,
+            "timeStamp": 1492985020952
+        },
+        {
+            "braking": 606,
+            "timeStamp": 1492985020952
+        },
+        {
+            "braking": 658,
+            "timeStamp": 1492985020952
+        },
+        {
+            "braking": 723,
+            "timeStamp": 1492985020952
+        },
+        {
+            "braking": 803,
+            "timeStamp": 1492985020952
+        },
+        {
+            "braking": 804,
+            "timeStamp": 1492985020952
+        },
+        {
+            "braking": 801,
+            "timeStamp": 1492985020952
+        },
+        {
+            "braking": 800,
+            "timeStamp": 1492985020952
+        },
+        {
+            "braking": 798,
+            "timeStamp": 1492985020952
+        },
+        {
+            "braking": 799,
+            "timeStamp": 1492985020952
+        },
+        {
+            "braking": 800,
+            "timeStamp": 1492985020953
+        },
+        {
+            "braking": 796,
+            "timeStamp": 1492985020953
+        },
+        {
+            "braking": 796,
+            "timeStamp": 1492985020953
+        },
+        {
+            "braking": 792,
+            "timeStamp": 1492985020953
+        },
+        {
+            "braking": 791,
+            "timeStamp": 1492985020953
+        },
+        {
+            "braking": 793,
+            "timeStamp": 1492985020953
+        },
+        {
+            "braking": 794,
+            "timeStamp": 1492985020953
+        },
+        {
+            "braking": 794,
+            "timeStamp": 1492985020953
+        },
+        {
+            "braking": 796,
+            "timeStamp": 1492985020953
+        },
+        {
+            "braking": 797,
+            "timeStamp": 1492985020953
+        },
+        {
+            "braking": 782,
+            "timeStamp": 1492985020953
+        },
+        {
+            "braking": 513,
+            "timeStamp": 1492985020953
+        },
+        {
+            "braking": 130,
+            "timeStamp": 1492985020953
+        },
+        {
+            "braking": 308,
+            "timeStamp": 1492985020953
+        },
+        {
+            "braking": 790,
+            "timeStamp": 1492985021040
+        },
+        {
+            "braking": 808,
+            "timeStamp": 1492985021043
+        },
+        {
+            "braking": 297,
+            "timeStamp": 1492985021101
+        },
+        {
+            "braking": 41,
+            "timeStamp": 1492985021119
+        },
+        {
+            "braking": 699,
+            "timeStamp": 1492985021749
+        },
+        {
+            "braking": 819,
+            "timeStamp": 1492985021999
+        },
+        {
+            "braking": 366,
+            "timeStamp": 1492985022407
+        },
+        {
+            "braking": 718,
+            "timeStamp": 1492985022431
+        },
+        {
+            "braking": 787,
+            "timeStamp": 1492985022433
+        },
+        {
+            "braking": 264,
+            "timeStamp": 1492985022466
+        },
+        {
+            "braking": 54,
+            "timeStamp": 1492985022466
+        },
+        {
+            "braking": 65,
+            "timeStamp": 1492985022466
+        },
+        {
+            "braking": 521,
+            "timeStamp": 1492985022466
+        },
+        {
+            "braking": 818,
+            "timeStamp": 1492985022466
+        },
+        {
+            "braking": 798,
+            "timeStamp": 1492985022466
+        },
+        {
+            "braking": 322,
+            "timeStamp": 1492985022466
+        },
+        {
+            "braking": 116,
+            "timeStamp": 1492985022466
+        },
+        {
+            "braking": 345,
+            "timeStamp": 1492985022513
+        },
+        {
+            "braking": 695,
+            "timeStamp": 1492985022623
+        },
+        {
+            "braking": 830,
+            "timeStamp": 1492985022782
+        },
+        {
+            "braking": 815,
+            "timeStamp": 1492985022824
+        },
+        {
+            "braking": 647,
+            "timeStamp": 1492985022940
+        },
+        {
+            "braking": 184,
+            "timeStamp": 1492985023023
+        },
+        {
+            "braking": 196,
+            "timeStamp": 1492985023135
+        },
+        {
+            "braking": 671,
+            "timeStamp": 1492985023225
+        },
+        {
+            "braking": 826,
+            "timeStamp": 1492985023367
+        },
+        {
+            "braking": 822,
+            "timeStamp": 1492985023445
+        },
+        {
+            "braking": 752,
+            "timeStamp": 1492985023530
+        },
+        {
+            "braking": 605,
+            "timeStamp": 1492985023643
+        },
+        {
+            "braking": 151,
+            "timeStamp": 1492985023737
+        },
+        {
+            "braking": 103,
+            "timeStamp": 1492985023847
+        },
+        {
+            "braking": 520,
+            "timeStamp": 1492985023963
+        },
+        {
+            "braking": 749,
+            "timeStamp": 1492985024052
+        },
+        {
+            "braking": 822,
+            "timeStamp": 1492985024142
+        },
+        {
+            "braking": 798,
+            "timeStamp": 1492985024251
+        },
+        {
+            "braking": 619,
+            "timeStamp": 1492985024363
+        },
+        {
+            "braking": 225,
+            "timeStamp": 1492985024472
+        },
+        {
+            "braking": 165,
+            "timeStamp": 1492985024573
+        },
+        {
+            "braking": 679,
+            "timeStamp": 1492985024657
+        },
+        {
+            "braking": 813,
+            "timeStamp": 1492985024779
+        },
+        {
+            "braking": 818,
+            "timeStamp": 1492985024862
+        },
+        {
+            "braking": 698,
+            "timeStamp": 1492985024980
+        },
+        {
+            "braking": 299,
+            "timeStamp": 1492985025067
+        },
+        {
+            "braking": 428,
+            "timeStamp": 1492985025185
+        },
+        {
+            "braking": 717,
+            "timeStamp": 1492985025268
+        },
+        {
+            "braking": 827,
+            "timeStamp": 1492985025406
+        },
+        {
+            "braking": 825,
+            "timeStamp": 1492985025491
+        },
+        {
+            "braking": 673,
+            "timeStamp": 1492985025575
+        },
+        {
+            "braking": 280,
+            "timeStamp": 1492985025701
+        },
+        {
+            "braking": 41,
+            "timeStamp": 1492985025776
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985025885
+        },
+        {
+            "braking": 252,
+            "timeStamp": 1492985025989
+        },
+        {
+            "braking": 734,
+            "timeStamp": 1492985026094
+        },
+        {
+            "braking": 849,
+            "timeStamp": 1492985026206
+        },
+        {
+            "braking": 820,
+            "timeStamp": 1492985026288
+        },
+        {
+            "braking": 584,
+            "timeStamp": 1492985026382
+        },
+        {
+            "braking": 49,
+            "timeStamp": 1492985026494
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985026608
+        },
+        {
+            "braking": 35,
+            "timeStamp": 1492985026690
+        },
+        {
+            "braking": 568,
+            "timeStamp": 1492985026818
+        },
+        {
+            "braking": 795,
+            "timeStamp": 1492985026892
+        },
+        {
+            "braking": 835,
+            "timeStamp": 1492985027003
+        },
+        {
+            "braking": 823,
+            "timeStamp": 1492985027092
+        },
+        {
+            "braking": 778,
+            "timeStamp": 1492985027206
+        },
+        {
+            "braking": 534,
+            "timeStamp": 1492985027325
+        },
+        {
+            "braking": 179,
+            "timeStamp": 1492985027407
+        },
+        {
+            "braking": 42,
+            "timeStamp": 1492985027512
+        },
+        {
+            "braking": 440,
+            "timeStamp": 1492985027606
+        },
+        {
+            "braking": 744,
+            "timeStamp": 1492985027717
+        },
+        {
+            "braking": 837,
+            "timeStamp": 1492985027809
+        },
+        {
+            "braking": 847,
+            "timeStamp": 1492985027920
+        },
+        {
+            "braking": 801,
+            "timeStamp": 1492985028036
+        },
+        {
+            "braking": 336,
+            "timeStamp": 1492985028123
+        },
+        {
+            "braking": 14,
+            "timeStamp": 1492985028241
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985028327
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985028430
+        },
+        {
+            "braking": 163,
+            "timeStamp": 1492985028592
+        },
+        {
+            "braking": 665,
+            "timeStamp": 1492985028622
+        },
+        {
+            "braking": 787,
+            "timeStamp": 1492985028737
+        },
+        {
+            "braking": 771,
+            "timeStamp": 1492985028848
+        },
+        {
+            "braking": 621,
+            "timeStamp": 1492985028935
+        },
+        {
+            "braking": 245,
+            "timeStamp": 1492985029071
+        },
+        {
+            "braking": 59,
+            "timeStamp": 1492985029206
+        },
+        {
+            "braking": 167,
+            "timeStamp": 1492985029241
+        },
+        {
+            "braking": 600,
+            "timeStamp": 1492985029358
+        },
+        {
+            "braking": 741,
+            "timeStamp": 1492985029443
+        },
+        {
+            "braking": 747,
+            "timeStamp": 1492985029553
+        },
+        {
+            "braking": 745,
+            "timeStamp": 1492985029645
+        },
+        {
+            "braking": 751,
+            "timeStamp": 1492985029799
+        },
+        {
+            "braking": 607,
+            "timeStamp": 1492985029847
+        },
+        {
+            "braking": 324,
+            "timeStamp": 1492985029964
+        },
+        {
+            "braking": 179,
+            "timeStamp": 1492985030051
+        },
+        {
+            "braking": 375,
+            "timeStamp": 1492985030162
+        },
+        {
+            "braking": 712,
+            "timeStamp": 1492985030292
+        },
+        {
+            "braking": 774,
+            "timeStamp": 1492985030404
+        },
+        {
+            "braking": 786,
+            "timeStamp": 1492985030456
+        },
+        {
+            "braking": 776,
+            "timeStamp": 1492985030573
+        },
+        {
+            "braking": 568,
+            "timeStamp": 1492985030663
+        },
+        {
+            "braking": 278,
+            "timeStamp": 1492985030773
+        },
+        {
+            "braking": 280,
+            "timeStamp": 1492985030870
+        },
+        {
+            "braking": 518,
+            "timeStamp": 1492985031009
+        },
+        {
+            "braking": 738,
+            "timeStamp": 1492985031070
+        },
+        {
+            "braking": 793,
+            "timeStamp": 1492985031183
+        },
+        {
+            "braking": 771,
+            "timeStamp": 1492985031277
+        },
+        {
+            "braking": 654,
+            "timeStamp": 1492985031376
+        },
+        {
+            "braking": 633,
+            "timeStamp": 1492985031511
+        },
+        {
+            "braking": 482,
+            "timeStamp": 1492985031591
+        },
+        {
+            "braking": 237,
+            "timeStamp": 1492985031681
+        },
+        {
+            "braking": 289,
+            "timeStamp": 1492985031792
+        },
+        {
+            "braking": 571,
+            "timeStamp": 1492985031908
+        },
+        {
+            "braking": 760,
+            "timeStamp": 1492985031994
+        },
+        {
+            "braking": 798,
+            "timeStamp": 1492985032105
+        },
+        {
+            "braking": 767,
+            "timeStamp": 1492985032218
+        },
+        {
+            "braking": 413,
+            "timeStamp": 1492985032293
+        },
+        {
+            "braking": 138,
+            "timeStamp": 1492985032402
+        },
+        {
+            "braking": 120,
+            "timeStamp": 1492985032498
+        },
+        {
+            "braking": 539,
+            "timeStamp": 1492985032603
+        },
+        {
+            "braking": 771,
+            "timeStamp": 1492985032716
+        },
+        {
+            "braking": 810,
+            "timeStamp": 1492985032828
+        },
+        {
+            "braking": 819,
+            "timeStamp": 1492985032928
+        },
+        {
+            "braking": 784,
+            "timeStamp": 1492985033016
+        },
+        {
+            "braking": 326,
+            "timeStamp": 1492985033116
+        },
+        {
+            "braking": 139,
+            "timeStamp": 1492985033226
+        },
+        {
+            "braking": 466,
+            "timeStamp": 1492985033314
+        },
+        {
+            "braking": 761,
+            "timeStamp": 1492985033426
+        },
+        {
+            "braking": 826,
+            "timeStamp": 1492985033520
+        },
+        {
+            "braking": 834,
+            "timeStamp": 1492985033628
+        },
+        {
+            "braking": 751,
+            "timeStamp": 1492985033745
+        },
+        {
+            "braking": 242,
+            "timeStamp": 1492985033828
+        },
+        {
+            "braking": 207,
+            "timeStamp": 1492985033933
+        },
+        {
+            "braking": 515,
+            "timeStamp": 1492985034053
+        },
+        {
+            "braking": 766,
+            "timeStamp": 1492985034141
+        },
+        {
+            "braking": 826,
+            "timeStamp": 1492985034231
+        },
+        {
+            "braking": 815,
+            "timeStamp": 1492985034340
+        },
+        {
+            "braking": 642,
+            "timeStamp": 1492985034444
+        },
+        {
+            "braking": 169,
+            "timeStamp": 1492985034548
+        },
+        {
+            "braking": 44,
+            "timeStamp": 1492985034662
+        },
+        {
+            "braking": 393,
+            "timeStamp": 1492985034760
+        },
+        {
+            "braking": 741,
+            "timeStamp": 1492985034845
+        },
+        {
+            "braking": 820,
+            "timeStamp": 1492985034955
+        },
+        {
+            "braking": 827,
+            "timeStamp": 1492985035051
+        },
+        {
+            "braking": 785,
+            "timeStamp": 1492985035159
+        },
+        {
+            "braking": 499,
+            "timeStamp": 1492985035268
+        },
+        {
+            "braking": 171,
+            "timeStamp": 1492985035384
+        },
+        {
+            "braking": 114,
+            "timeStamp": 1492985035464
+        },
+        {
+            "braking": 123,
+            "timeStamp": 1492985035569
+        },
+        {
+            "braking": 286,
+            "timeStamp": 1492985035684
+        },
+        {
+            "braking": 665,
+            "timeStamp": 1492985035774
+        },
+        {
+            "braking": 781,
+            "timeStamp": 1492985035865
+        },
+        {
+            "braking": 824,
+            "timeStamp": 1492985035976
+        },
+        {
+            "braking": 823,
+            "timeStamp": 1492985036063
+        },
+        {
+            "braking": 810,
+            "timeStamp": 1492985036172
+        },
+        {
+            "braking": 610,
+            "timeStamp": 1492985036333
+        },
+        {
+            "braking": 269,
+            "timeStamp": 1492985036385
+        },
+        {
+            "braking": 81,
+            "timeStamp": 1492985036463
+        },
+        {
+            "braking": 280,
+            "timeStamp": 1492985036587
+        },
+        {
+            "braking": 688,
+            "timeStamp": 1492985036702
+        },
+        {
+            "braking": 830,
+            "timeStamp": 1492985036785
+        },
+        {
+            "braking": 840,
+            "timeStamp": 1492985036937
+        },
+        {
+            "braking": 749,
+            "timeStamp": 1492985037005
+        },
+        {
+            "braking": 323,
+            "timeStamp": 1492985037088
+        },
+        {
+            "braking": 37,
+            "timeStamp": 1492985037203
+        },
+        {
+            "braking": 156,
+            "timeStamp": 1492985037288
+        },
+        {
+            "braking": 687,
+            "timeStamp": 1492985037396
+        },
+        {
+            "braking": 833,
+            "timeStamp": 1492985037535
+        },
+        {
+            "braking": 847,
+            "timeStamp": 1492985037592
+        },
+        {
+            "braking": 819,
+            "timeStamp": 1492985037718
+        },
+        {
+            "braking": 559,
+            "timeStamp": 1492985037805
+        },
+        {
+            "braking": 135,
+            "timeStamp": 1492985037921
+        },
+        {
+            "braking": 67,
+            "timeStamp": 1492985038008
+        },
+        {
+            "braking": 326,
+            "timeStamp": 1492985038158
+        },
+        {
+            "braking": 698,
+            "timeStamp": 1492985038203
+        },
+        {
+            "braking": 831,
+            "timeStamp": 1492985038313
+        },
+        {
+            "braking": 819,
+            "timeStamp": 1492985038422
+        },
+        {
+            "braking": 527,
+            "timeStamp": 1492985038532
+        },
+        {
+            "braking": 59,
+            "timeStamp": 1492985038618
+        },
+        {
+            "braking": 16,
+            "timeStamp": 1492985038758
+        },
+        {
+            "braking": 133,
+            "timeStamp": 1492985038816
+        },
+        {
+            "braking": 531,
+            "timeStamp": 1492985038926
+        },
+        {
+            "braking": 767,
+            "timeStamp": 1492985039023
+        },
+        {
+            "braking": 709,
+            "timeStamp": 1492985039156
+        },
+        {
+            "braking": 204,
+            "timeStamp": 1492985039239
+        },
+        {
+            "braking": 25,
+            "timeStamp": 1492985039351
+        },
+        {
+            "braking": 114,
+            "timeStamp": 1492985039440
+        },
+        {
+            "braking": 721,
+            "timeStamp": 1492985039527
+        },
+        {
+            "braking": 817,
+            "timeStamp": 1492985039636
+        },
+        {
+            "braking": 786,
+            "timeStamp": 1492985039747
+        },
+        {
+            "braking": 455,
+            "timeStamp": 1492985039837
+        },
+        {
+            "braking": 315,
+            "timeStamp": 1492985039950
+        },
+        {
+            "braking": 322,
+            "timeStamp": 1492985040043
+        },
+        {
+            "braking": 594,
+            "timeStamp": 1492985040155
+        },
+        {
+            "braking": 790,
+            "timeStamp": 1492985040240
+        },
+        {
+            "braking": 800,
+            "timeStamp": 1492985040370
+        },
+        {
+            "braking": 465,
+            "timeStamp": 1492985040483
+        },
+        {
+            "braking": 86,
+            "timeStamp": 1492985040600
+        },
+        {
+            "braking": 2,
+            "timeStamp": 1492985040658
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985040778
+        },
+        {
+            "braking": 120,
+            "timeStamp": 1492985040863
+        },
+        {
+            "braking": 765,
+            "timeStamp": 1492985040972
+        },
+        {
+            "braking": 842,
+            "timeStamp": 1492985041057
+        },
+        {
+            "braking": 799,
+            "timeStamp": 1492985041168
+        },
+        {
+            "braking": 301,
+            "timeStamp": 1492985041262
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985041372
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985041489
+        },
+        {
+            "braking": 134,
+            "timeStamp": 1492985041583
+        },
+        {
+            "braking": 735,
+            "timeStamp": 1492985041669
+        },
+        {
+            "braking": 772,
+            "timeStamp": 1492985041794
+        },
+        {
+            "braking": 472,
+            "timeStamp": 1492985041888
+        },
+        {
+            "braking": 11,
+            "timeStamp": 1492985041975
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985042083
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985042190
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985042267
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985042395
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985042481
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985042572
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985042692
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985042778
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985042885
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985042998
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985043090
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985043200
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985043293
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985043403
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985043552
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985043602
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985043718
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985043804
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985043917
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985044003
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985044145
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985044206
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985044317
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985044407
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985044543
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985044623
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985044778
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985044813
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985044921
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985045009
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985045126
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985045209
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985045355
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985045422
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985045531
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985045617
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985045737
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985045824
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985045952
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985046032
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985046142
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985046246
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985046330
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985046440
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985046559
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985046631
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985046727
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985046837
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985046949
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985047032
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985047150
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985047240
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985047352
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985047437
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985047579
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985047735
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985047748
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985047856
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985047957
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985048067
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985048179
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985048306
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985048356
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985048486
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985048567
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985048685
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985048799
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985048902
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985048967
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985049077
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985049171
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985049259
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985049368
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985049501
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985049577
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985049693
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985050142
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985050371
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985050440
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985050575
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985050616
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985050616
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985050616
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985050622
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985050625
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985050683
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985050815
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985050943
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985051080
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985051150
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985051214
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985051282
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985051416
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985051551
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985051621
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985051687
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985051821
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985051890
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985052095
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985052172
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985052269
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985052368
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985052505
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985052574
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985052709
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985052776
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985052845
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985052979
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985053047
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985053115
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985053250
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985053384
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985053520
+        },
+        {
+            "braking": 0,
+            "timeStamp": 1492985053586
+        }
+    ],
+    "duration": 68954,
+    "endTimeStamp": 1492985053675,
+    "isActiveInView": false,
+    "locations": [
+        {
+            "mAccuracy": 20.748,
+            "mAltitude": 0,
+            "mBearing": 0,
+            "mDistance": 0,
+            "mElapsedRealtimeNanos": 362361320000000,
+            "mHasAccuracy": true,
+            "mHasAltitude": false,
+            "mHasBearing": false,
+            "mHasSpeed": false,
+            "mInitialBearing": 0,
+            "mIsFromMockProvider": false,
+            "mLat1": 0,
+            "mLat2": 0,
+            "mLatitude": 55.8152427,
+            "mLon1": 0,
+            "mLon2": 0,
+            "mLongitude": 12.5392112,
+            "mProvider": "fused",
+            "mResults": [
+                0,
+                0
+            ],
+            "mSpeed": 0,
+            "mTime": 1492984556992
+        }
+    ],
+    "sessionName": "some_session",
+    "startTimestamp": 1492984984721
+}
